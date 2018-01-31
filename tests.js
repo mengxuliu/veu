@@ -1,1 +1,1 @@
-var add = 'this is my first webstrom svn'
+var add = 'this is my first'
